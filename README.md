@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sukumarparida/Codes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sukumarparida/Codes/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -26,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sukumarparida/Codes/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukumarparida/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
