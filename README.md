@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Sukumarparida/Codes/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
