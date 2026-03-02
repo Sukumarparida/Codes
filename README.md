@@ -88,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sukumarparida/Codes/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sukumarparida/Codes/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sukumarparida/Codes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
