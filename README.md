@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sukumarparida/Codes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sukumarparida/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Sukumarparida/Codes/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -126,4 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sukumarparida/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
