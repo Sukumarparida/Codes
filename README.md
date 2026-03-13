@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Sukumarparida/Codes/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sukumarparida/Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sukumarparida/Codes/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
