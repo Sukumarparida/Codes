@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sukumarparida/Codes/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sukumarparida/Codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sukumarparida/Codes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sukumarparida/Codes/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sukumarparida/Codes/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sukumarparida/Codes/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sukumarparida/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Sukumarparida/Codes/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
