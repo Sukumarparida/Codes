@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sukumarparida/Codes/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sukumarparida/Codes/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sukumarparida/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sukumarparida/Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Sukumarparida/Codes/tree/master/0147-insertion-sort-list) |
 ## Binary Search
 |  |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sukumarparida/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
