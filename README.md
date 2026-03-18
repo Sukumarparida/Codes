@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sukumarparida/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sukumarparida/Codes/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sukumarparida/Codes/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sukumarparida/Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Sukumarparida/Codes/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Sukumarparida/Codes/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
