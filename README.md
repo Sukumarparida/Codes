@@ -186,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sukumarparida/Codes/tree/master/0155-min-stack) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sukumarparida/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Sukumarparida/Codes/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
