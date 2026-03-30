@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sukumarparida/Codes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sukumarparida/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Database
 |  |
 | ------- |
