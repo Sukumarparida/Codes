@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sukumarparida/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sukumarparida/Codes/tree/master/0011-container-with-most-water) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sukumarparida/Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
