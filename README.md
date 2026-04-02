@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Sukumarparida/Codes/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/Sukumarparida/Codes/tree/master/2751-robot-collisions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sukumarparida/Codes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sukumarparida/Codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sukumarparida/Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukumarparida/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sukumarparida/Codes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Sukumarparida/Codes/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sukumarparida/Codes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
