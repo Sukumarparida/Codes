@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2596-check-knight-tour-configuration](https://github.com/Sukumarparida/Codes/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/Sukumarparida/Codes/tree/master/2751-robot-collisions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2751-robot-collisions](https://github.com/Sukumarparida/Codes/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Database
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sukumarparida/Codes/tree/master/0011-container-with-most-water) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Stack
 |  |
 | ------- |
