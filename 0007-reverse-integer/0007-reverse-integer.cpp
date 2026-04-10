@@ -7,7 +7,7 @@ public:
              rev = rev * 10 + lastdigit;
             x /=10; 
         }
-        if(rev > INT_MIN || rev < INT_MAX) return 0;
+        if(rev > INT_MAX || rev < INT_MIN) return 0;
         return (int)rev;
     }
 };
