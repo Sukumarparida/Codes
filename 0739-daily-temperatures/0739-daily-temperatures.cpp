@@ -1,22 +1,21 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& arr) {
-        int n= arr.size();
-        vector<int> ans(n,0);
-        stack<int>st;
+    vector<int> dailyTemperatures(vector<int>& temp) {
+        int n = temp.size();
+        stack<int> st;
+        vector<int> res(n,0);
         st.push(n-1);
-        for(int i=n-2;i>=0;i--){
-            while(!st.empty() && arr[i] >= arr[st.top()]){
+        for(int i= n-2;i>=0;i--){
+            while(!st.empty() && temp[st.top()] <= temp[i] ){
                 st.pop();
             }
             if(st.empty()){
-                ans[i] =0;
+                res[i] =0;
             }else{
-                ans[i] = st.top() - i;
-                
+                res[i] = st.top() - i;
             }
             st.push(i);
         }
-        return ans;
+        return res;
     }
 };
