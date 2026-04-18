@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sukumarparida/Codes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Sukumarparida/Codes/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sukumarparida/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sukumarparida/Codes/tree/master/0739-daily-temperatures) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Sukumarparida/Codes/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Stack
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sukumarparida/Codes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sukumarparida/Codes/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Sukumarparida/Codes/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
