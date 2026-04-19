@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sukumarparida/Codes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sukumarparida/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sukumarparida/Codes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sukumarparida/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sukumarparida/Codes/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
