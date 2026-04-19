@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sukumarparida/Codes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sukumarparida/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sukumarparida/Codes/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sukumarparida/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Sukumarparida/Codes/tree/master/2390-removing-stars-from-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sukumarparida/Codes/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 ## Depth-First Search
 |  |
 | ------- |
