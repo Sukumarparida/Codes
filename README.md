@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sukumarparida/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Sukumarparida/Codes/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sukumarparida/Codes/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sukumarparida/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Sukumarparida/Codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
