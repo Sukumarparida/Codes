@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sukumarparida/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sukumarparida/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sukumarparida/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sukumarparida/Codes/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sukumarparida/Codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sukumarparida/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sliding Window
