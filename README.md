@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sukumarparida/Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sukumarparida/Codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sukumarparida/Codes/tree/master/0303-range-sum-query-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Sukumarparida/Codes/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sukumarparida/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sukumarparida/Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Sukumarparida/Codes/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sukumarparida/Codes/tree/master/2965-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sukumarparida/Codes/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sukumarparida/Codes/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Sukumarparida/Codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sukumarparida/Codes/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sukumarparida/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sukumarparida/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sukumarparida/Codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Sukumarparida/Codes/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sukumarparida/Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sukumarparida/Codes/tree/master/0875-koko-eating-bananas) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sukumarparida/Codes/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
