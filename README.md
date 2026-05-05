@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sukumarparida/Codes/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sukumarparida/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sukumarparida/Codes/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sukumarparida/Codes/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Sukumarparida/Codes/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sukumarparida/Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sukumarparida/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sukumarparida/Codes/tree/master/1189-maximum-number-of-balloons) |
 ## Depth-First Search
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sukumarparida/Codes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sukumarparida/Codes/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sukumarparida/Codes/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Linked List
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sukumarparida/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 ## Monotonic Queue
 |  |
 | ------- |
