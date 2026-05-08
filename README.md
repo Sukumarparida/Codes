@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sukumarparida/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0502-ipo](https://github.com/Sukumarparida/Codes/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Sukumarparida/Codes/tree/master/0704-binary-search) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sukumarparida/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sukumarparida/Codes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0502-ipo](https://github.com/Sukumarparida/Codes/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0977-squares-of-a-sorted-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sukumarparida/Codes/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sukumarparida/Codes/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Sukumarparida/Codes/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Sukumarparida/Codes/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sukumarparida/Codes/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sukumarparida/Codes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sukumarparida/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sukumarparida/Codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Sukumarparida/Codes/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Sukumarparida/Codes/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sukumarparida/Codes/tree/master/0767-reorganize-string) |
 ## Monotonic Queue
