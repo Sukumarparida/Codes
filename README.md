@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sukumarparida/Codes/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Sukumarparida/Codes/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sukumarparida/Codes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sukumarparida/Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sukumarparida/Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Sukumarparida/Codes/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Sukumarparida/Codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sukumarparida/Codes/tree/master/0739-daily-temperatures) |
@@ -356,10 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sukumarparida/Codes/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sukumarparida/Codes/tree/master/0100-same-tree) |
 ## Quickselect
 |  |
