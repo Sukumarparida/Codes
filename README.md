@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sukumarparida/Codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sukumarparida/Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sukumarparida/Codes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sukumarparida/Codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sukumarparida/Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sukumarparida/Codes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sukumarparida/Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sukumarparida/Codes/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sukumarparida/Codes/tree/master/0039-combination-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sukumarparida/Codes/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
