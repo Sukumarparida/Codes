@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sukumarparida/Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sukumarparida/Codes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sukumarparida/Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Sukumarparida/Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukumarparida/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sukumarparida/Codes/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sukumarparida/Codes/tree/master/0136-single-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sukumarparida/Codes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sukumarparida/Codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sukumarparida/Codes/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sukumarparida/Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sukumarparida/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sukumarparida/Codes/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sukumarparida/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
